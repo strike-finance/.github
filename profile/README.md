@@ -3,7 +3,7 @@
   <h1><strong>Strike Finance</strong></h1>
 </div>
 <div align="center">
-  <i>"Empowering financial independence."</i>
+  <i>"Empowering individuals to achieve financial independence."</i>
 </div>
 <br/>
 <div align="center">
