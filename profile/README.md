@@ -3,11 +3,11 @@
   <h1><strong>Strike Finance</strong></h1>
 </div>
 <div align="center">
-  <i>Helping individuals achieve financial independence</i>
+  <i>Derivatives Trading Platform</i>
 </div>
 <br/>
 <div align="center">
-  <p>We are an open-source derivatives protocol built on top of Cardano. We offer options, forwards, and perpetual contract trading. Our mission is to help individuals achieve financial independence.</p>
+  <p>Strike Finance is an open-source derivatives protocol built on top of Cardano. We offer options, forwards, and perpetual contract trading. Our mission is to help individuals achieve financial independence.</p>
 </div>
 
 ## Beta
